@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/semantic-idea/static/css/main.1810e335.chunk.css",
-    "main.js": "/semantic-idea/static/js/main.606ffe4d.chunk.js",
-    "main.js.map": "/semantic-idea/static/js/main.606ffe4d.chunk.js.map",
+    "main.js": "/semantic-idea/static/js/main.bc8648fe.chunk.js",
+    "main.js.map": "/semantic-idea/static/js/main.bc8648fe.chunk.js.map",
     "runtime-main.js": "/semantic-idea/static/js/runtime-main.12f1280e.js",
     "runtime-main.js.map": "/semantic-idea/static/js/runtime-main.12f1280e.js.map",
     "static/js/2.3bfb0847.chunk.js": "/semantic-idea/static/js/2.3bfb0847.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12f1280e.js",
     "static/js/2.3bfb0847.chunk.js",
     "static/css/main.1810e335.chunk.css",
-    "static/js/main.606ffe4d.chunk.js"
+    "static/js/main.bc8648fe.chunk.js"
   ]
 }
